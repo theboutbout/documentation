@@ -11,7 +11,7 @@ In this documentation we will explain one way to collect and send Fortigate logs
 ## I] Fortigate logs
 
 On Fortigate appliances, most of the important hardward and software activities that are relevant for security detection and analysis, are logged into three files.
-- Traffic: Local out traffic / Denied traffic / Allowed traffic
+- Traffic: Local out traffic, Denied traffic, Allowed traffic
 - Web
 - Url-Filtering
 
