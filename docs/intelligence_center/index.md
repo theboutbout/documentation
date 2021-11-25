@@ -7,3 +7,4 @@ It is meant to store all levels of Cyber Threat Intelligence (CTI), from strateg
 ![SEKOIA.IO Intelligence Center Screenshot](../assets/intelligence_center/maze_graph.png){: style="width: 100%; max-width: 100%"}
 
 We recommend you learn about our [data model](data_model.md) before learning how you can [leverage the API](api.md).
+ 
