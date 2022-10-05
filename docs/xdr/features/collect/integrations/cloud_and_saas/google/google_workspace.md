@@ -20,3 +20,7 @@ Your inclusion filter should contain the following (don't forget to specify your
 protoPayload.@type="type.googleapis.com/google.cloud.audit.AuditLog"
 logName="organizations/<YOUR ORGANISATION ID>/logs/cloudaudit.googleapis.com%2Factivity"
 ```
+
+## Retrieve Google Cloud Audit logs with playbook module
+
+Please create a playbook with module `Connect to the specified`
